@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gpx version="1.1" creator="GPS Visualizer https://www.gpsvisualizer.com/" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v2 http://www.garmin.com/xmlschemas/TrackPointExtensionv2.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v2" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+<wpt lat="24.4632942" lon="118.1149386">
+  <name>中国福建省厦门市思明区金榜南二路F477+7WH 邮政编码: 361010</name>
+  <sym>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</sym>
+</wpt>
+<wpt lat="24.4668972" lon="118.1102225">
+  <name>中国福建省厦门市思明区金榜路58号 邮政编码: 361004</name>
+  <sym>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</sym>
+</wpt>
+<trk>
+  <name>从中国福建省厦门市思明区金榜南二路F477+7WH 邮政编码: 361010到中国福建省厦门市思明区金榜路58号 邮政编码: 361004的路线</name>
+  <trkseg>
+    <trkpt lat="24.46329" lon="118.11494"></trkpt>
+    <trkpt lat="24.46325" lon="118.11497"></trkpt>
+    <trkpt lat="24.46321" lon="118.11504"></trkpt>
+    <trkpt lat="24.46308" lon="118.11521"></trkpt>
+    <trkpt lat="24.46295" lon="118.11534"></trkpt>
+    <trkpt lat="24.46294" lon="118.11535"></trkpt>
+    <trkpt lat="24.46284" lon="118.11542"></trkpt>
+    <trkpt lat="24.4628" lon="118.11544"></trkpt>
+    <trkpt lat="24.46266" lon="118.11553"></trkpt>
+    <trkpt lat="24.46257" lon="118.11545"></trkpt>
+    <trkpt lat="24.46246" lon="118.11531"></trkpt>
+    <trkpt lat="24.46241" lon="118.11517"></trkpt>
+    <trkpt lat="24.46238" lon="118.11504"></trkpt>
+    <trkpt lat="24.46238" lon="118.11494"></trkpt>
+    <trkpt lat="24.46238" lon="118.11486"></trkpt>
+    <trkpt lat="24.46239" lon="118.11474"></trkpt>
+    <trkpt lat="24.46242" lon="118.11463"></trkpt>
+    <trkpt lat="24.46244" lon="118.11454"></trkpt>
+    <trkpt lat="24.46245" lon="118.11453"></trkpt>
+    <trkpt lat="24.46249" lon="118.11443"></trkpt>
+    <trkpt lat="24.46254" lon="118.11436"></trkpt>
+    <trkpt lat="24.46256" lon="118.11433"></trkpt>
+    <trkpt lat="24.46261" lon="118.11426"></trkpt>
+    <trkpt lat="24.46267" lon="118.11417"></trkpt>
+    <trkpt lat="24.46273" lon="118.11411"></trkpt>
+    <trkpt lat="24.46278" lon="118.11407"></trkpt>
+    <trkpt lat="24.46282" lon="118.11404"></trkpt>
+    <trkpt lat="24.46288" lon="118.11403"></trkpt>
+    <trkpt lat="24.46293" lon="118.11402"></trkpt>
+    <trkpt lat="24.46298" lon="118.11403"></trkpt>
+    <trkpt lat="24.46307" lon="118.11404"></trkpt>
+    <trkpt lat="24.46312" lon="118.11404"></trkpt>
+    <trkpt lat="24.46317" lon="118.11404"></trkpt>
+    <trkpt lat="24.46322" lon="118.11402"></trkpt>
+    <trkpt lat="24.46327" lon="118.11397"></trkpt>
+    <trkpt lat="24.46335" lon="118.11388"></trkpt>
+    <trkpt lat="24.46343" lon="118.11381"></trkpt>
+    <trkpt lat="24.46358" lon="118.11374"></trkpt>
+    <trkpt lat="24.46361" lon="118.11372"></trkpt>
+    <trkpt lat="24.4637" lon="118.11367"></trkpt>
+    <trkpt lat="24.46375" lon="118.11362"></trkpt>
+    <trkpt lat="24.46386" lon="118.11351"></trkpt>
+    <trkpt lat="24.46396" lon="118.11343"></trkpt>
+    <trkpt lat="24.464" lon="118.11338"></trkpt>
+    <trkpt lat="24.46404" lon="118.11334"></trkpt>
+    <trkpt lat="24.46408" lon="118.11329"></trkpt>
+    <trkpt lat="24.46413" lon="118.11324"></trkpt>
+    <trkpt lat="24.46415" lon="118.11322"></trkpt>
+    <trkpt lat="24.46417" lon="118.1132"></trkpt>
+    <trkpt lat="24.4642" lon="118.11316"></trkpt>
+    <trkpt lat="24.46422" lon="118.11314"></trkpt>
+    <trkpt lat="24.46423" lon="118.11312"></trkpt>
+    <trkpt lat="24.46428" lon="118.11303"></trkpt>
+    <trkpt lat="24.46433" lon="118.11293"></trkpt>
+    <trkpt lat="24.46434" lon="118.11285"></trkpt>
+    <trkpt lat="24.46435" lon="118.11277"></trkpt>
+    <trkpt lat="24.46436" lon="118.11266"></trkpt>
+    <trkpt lat="24.46436" lon="118.11263"></trkpt>
+    <trkpt lat="24.46446" lon="118.11247"></trkpt>
+    <trkpt lat="24.46449" lon="118.11242"></trkpt>
+    <trkpt lat="24.46452" lon="118.11238"></trkpt>
+    <trkpt lat="24.46457" lon="118.11234"></trkpt>
+    <trkpt lat="24.46459" lon="118.1123"></trkpt>
+    <trkpt lat="24.46463" lon="118.11226"></trkpt>
+    <trkpt lat="24.46463" lon="118.11222"></trkpt>
+    <trkpt lat="24.46463" lon="118.11219"></trkpt>
+    <trkpt lat="24.46463" lon="118.11214"></trkpt>
+    <trkpt lat="24.46461" lon="118.1121"></trkpt>
+    <trkpt lat="24.46459" lon="118.11205"></trkpt>
+    <trkpt lat="24.46456" lon="118.112"></trkpt>
+    <trkpt lat="24.46453" lon="118.11197"></trkpt>
+    <trkpt lat="24.46448" lon="118.11193"></trkpt>
+    <trkpt lat="24.46438" lon="118.11184"></trkpt>
+    <trkpt lat="24.4643" lon="118.11176"></trkpt>
+    <trkpt lat="24.46423" lon="118.11171"></trkpt>
+    <trkpt lat="24.46419" lon="118.1117"></trkpt>
+    <trkpt lat="24.46426" lon="118.11147"></trkpt>
+    <trkpt lat="24.46428" lon="118.11142"></trkpt>
+    <trkpt lat="24.4643" lon="118.11135"></trkpt>
+    <trkpt lat="24.46437" lon="118.11113"></trkpt>
+    <trkpt lat="24.4644" lon="118.11104"></trkpt>
+    <trkpt lat="24.46441" lon="118.11099"></trkpt>
+    <trkpt lat="24.46444" lon="118.11095"></trkpt>
+    <trkpt lat="24.46446" lon="118.11092"></trkpt>
+    <trkpt lat="24.46448" lon="118.11089"></trkpt>
+    <trkpt lat="24.46455" lon="118.11089"></trkpt>
+    <trkpt lat="24.46463" lon="118.11089"></trkpt>
+    <trkpt lat="24.46473" lon="118.11091"></trkpt>
+    <trkpt lat="24.46478" lon="118.11091"></trkpt>
+    <trkpt lat="24.46484" lon="118.11092"></trkpt>
+    <trkpt lat="24.46495" lon="118.11094"></trkpt>
+    <trkpt lat="24.46499" lon="118.11094"></trkpt>
+    <trkpt lat="24.46503" lon="118.11095"></trkpt>
+    <trkpt lat="24.4651" lon="118.11094"></trkpt>
+    <trkpt lat="24.46518" lon="118.11091"></trkpt>
+    <trkpt lat="24.46524" lon="118.1109"></trkpt>
+    <trkpt lat="24.46527" lon="118.11091"></trkpt>
+    <trkpt lat="24.4653" lon="118.11094"></trkpt>
+    <trkpt lat="24.46531" lon="118.11096"></trkpt>
+    <trkpt lat="24.46535" lon="118.11089"></trkpt>
+    <trkpt lat="24.46537" lon="118.11087"></trkpt>
+    <trkpt lat="24.46538" lon="118.11085"></trkpt>
+    <trkpt lat="24.46542" lon="118.11082"></trkpt>
+    <trkpt lat="24.46544" lon="118.11081"></trkpt>
+    <trkpt lat="24.46548" lon="118.11079"></trkpt>
+    <trkpt lat="24.46553" lon="118.11077"></trkpt>
+    <trkpt lat="24.46559" lon="118.11076"></trkpt>
+    <trkpt lat="24.46563" lon="118.11074"></trkpt>
+    <trkpt lat="24.46567" lon="118.11073"></trkpt>
+    <trkpt lat="24.46569" lon="118.11071"></trkpt>
+    <trkpt lat="24.46571" lon="118.1107"></trkpt>
+    <trkpt lat="24.46573" lon="118.11068"></trkpt>
+    <trkpt lat="24.46588" lon="118.11047"></trkpt>
+    <trkpt lat="24.46609" lon="118.11021"></trkpt>
+    <trkpt lat="24.46622" lon="118.11019"></trkpt>
+    <trkpt lat="24.46637" lon="118.11019"></trkpt>
+    <trkpt lat="24.46659" lon="118.11019"></trkpt>
+    <trkpt lat="24.46677" lon="118.11023"></trkpt>
+    <trkpt lat="24.4669" lon="118.11022"></trkpt>
+  </trkseg>
+</trk>
+</gpx>
